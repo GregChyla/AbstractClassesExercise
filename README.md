@@ -1,4 +1,4 @@
 # AbstractClassesExercise
-ISA exercise
+##Infoshare Academy exercise
 
 Some simple extra homework
