@@ -5,15 +5,15 @@ public class MapperAppStarter {
 
     public static void main(String[] args) {
         List<Integer> integerList = new ArrayList<>();
-        List<String> stringList = new ArrayList<>();
+        List<Integer> stringList = new ArrayList<>();
 
         integerList.add(2);
         integerList.add(3);
         integerList.add(4);
 
-        stringList.add("100");
-        stringList.add("1000");
-        stringList.add("10000");
+        stringList.add(100);
+        stringList.add(1000);
+        stringList.add(10000);
 
         IntegerMapper integerMapper = new IntegerMapper();
         System.out.println("Mapping integers");
